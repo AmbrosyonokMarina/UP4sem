@@ -1,0 +1,3 @@
+.idea/
+Laba.iml
+task1/
