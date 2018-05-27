@@ -1,0 +1,22 @@
+{
+  "name": "marina",
+  "version": "1.0.0",
+  "description": "Marina",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "up4sem"
+  },
+  "keywords": [
+    "UP"
+  ],
+  "author": "Marina",
+  "license": "ISC"
+}
